@@ -4,9 +4,9 @@
 
 <h2>INSTALLATION</h2>
 <ul>
-    <li>git clone https://github.com/Cool-Hongsi/React-Manage-Employee.git</li>
-    <li>./React-Manage-Employee -> npm install (To install necessary modules)</li>
-    <li>./React-Manage-Employee -> npm start (To execute the program)</li>
+    <li>git clone https://github.com/Cool-Hongsi/Redux-Application</li>
+    <li>./reduxapplication -> npm install (To install necessary modules)</li>
+    <li>./reduxapplication -> npm start (To execute the program)</li>
 </ul>
 <h2>SET UP</h2>
 <ul>
